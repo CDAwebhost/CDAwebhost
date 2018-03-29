@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2017-07-12
 img: cabin.png
 alt: image-alt
-project-date: 
-client: 
+project-date: 2017
+client: The Group Bucket
 category: Web Development
-description: 
+description: This website was designed to delegate projects and tasks for groups of indviduals looking to plan for small to medium sized trips. The Group Bucket also encourages members to share their experiences they planned through their profile feed. 
 
 ---
