@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 
+date: 2017-04-08
 img: safe.png
 alt: image-alt
-project-date: 
-client: 
+project-date: April 2017
+client: client
 category: Web Development
-description: 
+description: description
 
 ---
