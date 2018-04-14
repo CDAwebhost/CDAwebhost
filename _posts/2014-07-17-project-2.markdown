@@ -2,11 +2,11 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: The Groupbucket homepage screenshot.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: The Groupbucket
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: During the early stages, CDA worked on low custom pages. This is one example of how CDA was able to build the vision of young entreneur looking to get her social media platform to start little by little. The Groupbucket was designed for groups of individuals to have a central place to plan and execute group events. Tasks can be assigned through each new event. There is also the option to post about your event on the global feed. This is part one of the process, in time a this website will be redeveloped in part two, a new fully custom designed webpage to fit the modern look of current social media platforms.
 
 ---
