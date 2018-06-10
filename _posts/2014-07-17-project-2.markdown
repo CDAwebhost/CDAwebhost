@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: The Groupbucket homepage screenshot.png
+img: TGB Final Letters-01.png
 alt: image-alt
 project-date: April 2014
 client: The Groupbucket
