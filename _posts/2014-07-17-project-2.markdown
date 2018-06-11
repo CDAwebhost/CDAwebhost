@@ -4,9 +4,9 @@ modal-id: 2
 date: 2014-07-17
 img: imageedit_2_7524289615.png
 alt: image-alt
-project-date: April 2014
+project-date: November 2017
 client: The Groupbucket
 category: Web Development
-description: During the early stages, CDA worked on low custom pages. This is one example of how CDA was able to build the vision of young entreneur looking to get her social media platform to start little by little. The Groupbucket was designed for groups of individuals to have a central place to plan and execute group events. Tasks can be assigned through each new event. There is also the option to post about your event on the global feed. This is part one of the process, in time a this website will be redeveloped in part two, a new fully custom designed webpage to fit the modern look of current social media platforms.
+description: The first website done by CDA. It was a simple social media website for a young entrenuer who wanted a place where people of big groups can plan their events and trips. The Groupbucket has the capabilities of assigning tasks for your trip or event to your peers. It also has a global feed in which members can share their experiences and pictures of their events for other people to see and have an idea of where they would want to go next. Website is currently offline due to the request of the founder, this website will be entering a phase II for redevelopment within the next year. 
 
 ---
