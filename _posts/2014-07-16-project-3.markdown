@@ -4,8 +4,8 @@ modal-id: 3
 date: 2014-07-16
 img: Afridere (9).png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: January 2018
+client: Dr. John Opara and Charles Izuakor
 category: Web Development
 description: Afridere.org was designed for a group Doctorates of business and economics. This website serves as database for researchers in underrepresented areas (primarily Africa) who cannot get published or get recognition for their work. Afriedere also provides services for editing and reviewing manuscripts, and highlighting important stories from regions in Africa. The website is set for a redevelopment in the upcoming years (phase II).
 
