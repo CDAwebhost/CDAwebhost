@@ -7,6 +7,6 @@ alt: image-alt
 project-date: June 2017
 client: KIGT
 category: Web Development
-description: KIGT manfactures the fastest, smartest, and smallest Electric Vehicle Charge Station in the world. They also developed their own software that can let you scheudle your charging for in home and allow commercial sites to manage energy loads and their grid.
+description: KIGT manfactures the fastest, smartest, and smallest Electric Vehicle Charge Station in the world. They also developed their own software that can let you schedule your charging for in home and allow commercial sites to manage energy loads and their grid.
 
 ---
