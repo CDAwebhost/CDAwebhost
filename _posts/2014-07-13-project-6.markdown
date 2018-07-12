@@ -4,8 +4,8 @@ modal-id: 6
 date: 2014-07-15
 img: CDA (8).png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: April 2018
+client: CDA
 category: Web Development
 description: Our website also serves an example of the simple layout that individuals might prefer. Our website will be going through a major redvelopment within the next couple years. This serves the needs we need now which is what all people with website want.
 
