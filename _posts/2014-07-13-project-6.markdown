@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: sCDA (8).png
+img: CDA (8).png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
