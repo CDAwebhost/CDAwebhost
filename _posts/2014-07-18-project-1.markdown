@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: imageedit_1_7876656167.png
-preview-img: imageedit_1_7876656167.png
+preview-img: nsbe homepage screenshot.png
 alt: image-alt
 project-date: April 2017
 client: National Society of Black Engineers (NSBE) UCR Chapter
