@@ -3,6 +3,7 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: Afridere (9).png
+preview-img: Afridere-Screenshot.png
 alt: image-alt
 project-date: January 2018
 client: Dr. John Opara and Charles Izuakor
