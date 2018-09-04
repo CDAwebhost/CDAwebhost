@@ -3,6 +3,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: imageedit_2_7524289615.png
+preview-img: The Groupbucket homepage screenshot.png
 alt: image-alt
 project-date: November 2017
 client: The Groupbucket
