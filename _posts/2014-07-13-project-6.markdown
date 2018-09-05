@@ -3,6 +3,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: CDA (8).png
+preview-img: CDA-Screenshot.png
 alt: image-alt
 project-date: April 2018
 client: CDA
