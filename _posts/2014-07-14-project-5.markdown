@@ -3,10 +3,11 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 img: Is your website next_!.png
+preview-img: white.jpg
 alt: image-alt
 project-date: 2018
 client: You
 category: Web Development
-description: Send us an inquiry if you want your next website done with us, CDA!!
+description: Send us an inquiry if you want your next website done with us, CDA.
 
 ---
